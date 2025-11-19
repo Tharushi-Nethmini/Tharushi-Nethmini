@@ -99,9 +99,11 @@ build impactful products and continuously grow my technical skills.
 
 ## 🚀 Featured Projects  
 
-- **Portfolio Website** – Responsive personal site built with React & Tailwind  
-- **Task Manager API** – Secure REST API using Node.js + MongoDB  
-- **UI Dashboard** – Attractive dashboard with clean UI designs  
+- **EV Charging Booking System** – Responsive web application + mobile application built with React, Android & Tailwind  
+- **FOAD-System "TummyTaxi"** – Cloud-Native Food Ordering & Delivery System using Microservices  
+- **EcoBin** – Responsive web application + mobile application built with React & MongoDB
+- **AgroProLK** – Responsive web application built with React & MongoDB
+- **Giggles** – Mobile application built with React Native & Firebase 
 
 ---
 
